@@ -51,7 +51,7 @@ public class MesAno {
 					break;
 			}
 		} else {
-			System.out.println("entrada inválida");
+			System.out.println("mês inválido");
 		}
 		
 		leitor.close();
