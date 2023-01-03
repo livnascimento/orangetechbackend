@@ -1,4 +1,4 @@
-package logicaCondicionalControleFluxos;
+package edu.livia.curso.condicionaisefluxo;
 
 import java.util.Scanner;
 
