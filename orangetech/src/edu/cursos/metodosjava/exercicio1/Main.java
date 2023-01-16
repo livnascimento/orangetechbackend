@@ -8,8 +8,8 @@ public class Main {
 		System.out.println(Mensagem.retornaMensagem(17));
 		
 		
-		System.out.println("\nO número de parcelas é: ");
-		Emprestimo.calculaParcela(1000, 5);
+		System.out.println("\nO valor de cada parcela é: ");
+		System.out.println(Emprestimo.calculaParcela(1000, 5));
 		
 		System.out.println("\nAs operações são entre 20 e 10: ");
 		System.out.println(Operacoes.soma(20, 10));
