@@ -1,4 +1,4 @@
-package edu.livia.curso.condicionaisefluxo;
+package edu.cursos.condicionaisefluxo;
 
 import java.util.Scanner;
 

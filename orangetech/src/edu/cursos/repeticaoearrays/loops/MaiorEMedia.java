@@ -1,4 +1,4 @@
-package edu.livia.curso.repeticaoearrays;
+package edu.cursos.repeticaoearrays.loops;
 
 import java.util.Arrays;
 import java.util.Scanner;

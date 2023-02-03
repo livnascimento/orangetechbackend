@@ -1,4 +1,4 @@
-package desafiosBasicos;
+package edu.desafios.basicos;
 
 public class Multa {
 
